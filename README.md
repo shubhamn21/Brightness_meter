@@ -33,6 +33,8 @@ To get scores for all images in folder:
 python3 ./brightness.py folder ./
 ```
 
+![ScreenShot](https://github.com/shubhamn21/Brightness_meter/blob/master/Screenshot.png)
+
 
 ** Note: You can import "brightness_image" in your python project and pass cv2 object to fetch brightness score.
 
